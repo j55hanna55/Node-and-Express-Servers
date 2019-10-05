@@ -3,7 +3,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
 
-//configure express to port 3000 localhost
+
 var app = express();
 var PORT = process.env.PORT || 3000;
 
